@@ -1,0 +1,6 @@
+crewai
+crewai_tools
+ipython
+openai
+pydantic
+langchain
