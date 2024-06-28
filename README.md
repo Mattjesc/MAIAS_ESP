@@ -4,6 +4,9 @@ This project demonstrates the setup and use of a Multi-AI Agents for embedded sy
 
 **Note:** This project is financially constrained and not ready for production. It is a prototype and does not represent a perfect system. There are many improvements to be made.
 
+![image](https://github.com/Mattjesc/MAIAS_ESP/assets/147006999/55e215cf-f03b-4882-a45e-4159ddf37e4b)
+
+
 ## Project Structure
 
 ```
